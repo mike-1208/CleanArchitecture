@@ -5,7 +5,7 @@
     <PackageVersion Include="Ardalis.ListStartupServices" Version="1.1.4" />
     <PackageVersion Include="Ardalis.Result" Version="10.0.0" />
     <PackageVersion Include="Ardalis.Result.AspNetCore" Version="10.0.0" />
-    <PackageVersion Include="Ardalis.SharedKernel" Version="1.6.0" />
+    <PackageVersion Include="Ardalis.SharedKernel" Version="2.1.1" />
     <PackageVersion Include="Ardalis.SmartEnum" Version="8.1.0" />
     <PackageVersion Include="Ardalis.Specification" Version="8.0.0" />
     <PackageVersion Include="Ardalis.Specification.EntityFrameworkCore" Version="8.0.0" />
@@ -27,7 +27,7 @@
     <PackageVersion Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
     <PackageVersion Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
     <PackageVersion Include="Microsoft.Extensions.Logging" Version="8.0.0" />
-    <PackageVersion Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.1" />
+    <PackageVersion Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.2" />
     <PackageVersion Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="8.0.0" />
     <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.11.1" />
     <PackageVersion Include="NSubstitute" Version="5.1.0" />
